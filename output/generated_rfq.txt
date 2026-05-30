@@ -1,0 +1,10 @@
+RFP #2024-001
+Medical Grade Rubber Seals RFQ
+
+Product: FDA-approved silicone rubber seals
+Quantity: 1,000 units
+Delivery: Within 2 weeks
+Requirements: 
+- Must meet ISO 13485 standards
+- Batch traceability required
+- Packaging: Sterile individual units
