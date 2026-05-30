@@ -1,3 +1,6 @@
+--only-binary=pillow,pydantic-core
+pillow==10.2.0
+pydantic-core==2.14.6
 langgraph==0.0.32
 pydantic==2.5.3
 streamlit==1.32.0
